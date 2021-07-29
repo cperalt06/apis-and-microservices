@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Carlos A. Peralta",
 	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "apis", "microservices"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
