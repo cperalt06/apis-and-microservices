@@ -3,6 +3,7 @@
 	"author": "Carlos A. Peralta",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "apis", "microservices"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
